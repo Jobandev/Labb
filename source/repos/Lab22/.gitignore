@@ -1,0 +1,12 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.log
+*.vsidx
+.vscode/
+*.cache
+node_modules/
+*.db
+*.key
